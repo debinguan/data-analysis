@@ -12,13 +12,18 @@
 - Requests / Selenium
 - Pandas / NumPy
 - Matplotlib / Seaborn
-
 ## 项目结构
+
+```
 data-analysis
-├── crawler
-├── analysis
+├── crawler        # 爬虫脚本
+├── analysis       # 数据分析代码
 ├── data
-│ ├── raw
-│ └── processed
-├── reports
+│   ├── raw         # 原始数据
+│   └── processed   # 清洗数据
+├── reports         # 图表与报告
 └── README.md
+```
+
+
+
